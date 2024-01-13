@@ -1,4 +1,3 @@
 Tiny Favorites, bundle:tiny_adventures, tiny_tara, tiny_tim
 Players Favorites, pigman, led, knight_racer
 Undead Warriors, bundle:undead_warriors, zombie, egyptian_skeleton, skeleton
-Allstars, goblin, wolf
